@@ -8,26 +8,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "237696900612"
+global.ownernomer = "22953939895"
 global.ownername = "*Hans Tech"
 global.ytname = "YT: HansTech0"
 global.socialm = ""
 global.location = "EARTH,AFRICA"
 
-global.ownernumber = '237696900612'  //creator number
-global.ownername = 'Harold MTH' //owner name
-global.botname = 'Hans-Bug-bot' //name of the bot
+global.ownernumber = '22953939895'  //creator number
+global.ownername = 'Fianto Rousseau' //owner name
+global.botname = 'Rousseau-Bug-bot' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By Hans Tech'
-global.author = 'Hallo\n\nContact: 237696900612'
+global.author = 'Hello\n\nContact: 22953939895'
 
 //console view/theme
 global.themeemoji = '😎'
-global.wm = "Hans Tech😏"
+global.wm = "Rousseau 😏"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
+global.link = ''
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
